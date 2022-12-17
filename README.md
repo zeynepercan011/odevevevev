@@ -1,4 +1,4 @@
-# odevevevev
+# odevevevev.c
 
 //dizinin ortalama degerinden daha kucuk ve daha buyuk olan degeri donduren fonks
 
